@@ -41,10 +41,9 @@ I'm a BBA graduate who discovered a strong passion for technology and user-centr
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/) *(update your link here)*
-- 💼 [Portfolio Website](https://yourwebsite.com) *(optional)*  
-- 📧 Email: yourname@example.com *(replace with your email)*
-
+- 🔗 [LinkedIn](https://www.linkedin.com/in/siva-vignesh-135318298) 
+- 💼 [Portfolio Website](https://yourwebsite.com)
+- 📧 Email: (sivavigneshm92@gmail.com)
 ---
 
 ⭐ *Thank you for visiting my profile! Let’s learn, build, and grow together!*
