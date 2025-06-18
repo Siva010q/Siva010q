@@ -18,11 +18,6 @@ I'm a BBA graduate who discovered a strong passion for technology and user-centr
 - React.js (Learning)
 - Git & GitHub
 
-#### 🎨 UI/UX & Research
-- Figma (Wireframing & Prototyping)
-- User Persona Creation
-- UX Surveys & Research Methodologies
-- Google Forms for UX data
 
 #### 📊 Business & Soft Skills
 - Business Analysis
