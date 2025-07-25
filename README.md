@@ -14,8 +14,10 @@ I'm a BBA graduate who discovered a strong passion for technology and user-centr
 
 #### 💻 Programming & Web Development
 - HTML5, CSS3, JavaScript
-- Bootstrap, Tailwind CSS
-- React.js (Learning)
+- Tailwind CSS
+- React.js
+- Python-3
+- MySQL,POSTGRESQL
 - Git & GitHub
 
 
