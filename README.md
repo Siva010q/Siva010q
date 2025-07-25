@@ -1,12 +1,12 @@
 # 👋 Hi there! I'm M. Siva Vignesh
 
-🎓 A Business Graduate turned Tech Enthusiast | 💻 Full-Stack Developer in Training | 🎯 UX Researcher
+🎓 A Business Graduate turned Tech Enthusiast | 💻 Full-Stack Developer  
 
 ---
 
 ### 🧠 About Me
 
-I'm a BBA graduate who discovered a strong passion for technology and user-centric design. I’m currently learning full-stack web development at Grapinz Technology and exploring the world of UX research through real-time projects like **Casa Fix Hub**. My goal is to bridge business logic with seamless digital experiences.
+I'm a BBA graduate who discovered a strong passion for technology and user-centric design. I’m currently learning full-stack web development at Grapinz Technology and exploring the world of Web Development  through real-time projects like **Casa Fix Hub**-**Craft Colors**-**Calculator**. My goal is to bridge business logic with seamless digital experiences.
 
 ---
 
