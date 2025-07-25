@@ -11,6 +11,13 @@ I'm a BBA graduate who discovered a strong passion for technology and user-centr
 ---
 
 ### 💡 Skills & Tools
+-VS Code (Visual Studio Code) 
+-Figma
+-DEEPSEEK
+-ChatGPT
+-Gemini
+-Copilot
+-Cline
 
 #### 💻 Programming & Web Development
 - HTML5, CSS3, JavaScript
