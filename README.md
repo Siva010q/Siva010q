@@ -10,15 +10,15 @@ I'm a BBA graduate who discovered a strong passion for technology and user-centr
 
 ---
 
-### 💡 Skills & Tools
+### Tools
 -VS Code (Visual Studio Code) 
--Figma
+-Figma(Basiscs)
 -DEEPSEEK
 -ChatGPT
 -Gemini
 -Copilot
 -Cline
-
+-
 #### 💻 Programming & Web Development
 - HTML5, CSS3, JavaScript
 - Tailwind CSS
@@ -38,7 +38,8 @@ I'm a BBA graduate who discovered a strong passion for technology and user-centr
 
 ### 🚀 Projects
 
-- **Casa Fix Hub** – A UX case study & website for a home service platform
+- **Casa Fix Hub** – A website for a home service platform
+- **Crafty colors** - A Ecom website for paints ,  sprays , Resins & brushes 
 - More to come soon... 👨‍💻
 
 ---
